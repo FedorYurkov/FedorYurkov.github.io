@@ -3,7 +3,7 @@
     <from>USDTTRC</from>
     <to>CASHRUB</to>
     <in>1</in>
-    <out>98</out>
+    <out>0.5</out>
     <minamount>1</minamount>
     <maxamount>1000000</maxamount>
     <city>MSK</city>
