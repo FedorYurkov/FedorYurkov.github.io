@@ -38,8 +38,8 @@
   <item>
     <from>CASHRUB</from>
     <to>USDTERC</to>
-    <in>1</in>
-    <out>115</out>
+    <in>99.95</in>
+    <out>1</out>
     <minamount>1</minamount>
     <maxamount>1000000</maxamount>
     <city>MSK</city>
@@ -47,8 +47,8 @@
   <item>
     <from>CASHRUB</from>
     <to>USDTBEP</to>
-    <in>1</in>
-    <out>110</out>
+    <in>102</in>
+    <out>1</out>
     <minamount>1</minamount>
     <maxamount>1000000</maxamount>
     <city>MSK</city>
