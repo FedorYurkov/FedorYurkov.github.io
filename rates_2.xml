@@ -1,6 +1,6 @@
 <rates>
   <item>
-    <from>USDTERC</from>
+    <from>USDTTRC</from>
     <to>CASHRUB</to>
     <in>1</in>
     <out>115</out>
@@ -37,7 +37,7 @@
   </item>
   <item>
     <from>CASHRUB</from>
-    <to>USDTERC</to>
+    <to>USDTTRC</to>
     <in>99.95</in>
     <out>1</out>
     <minamount>1</minamount>
