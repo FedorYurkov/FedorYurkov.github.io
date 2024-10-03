@@ -1,0 +1,11 @@
+<rates>
+  <item>
+    <from>USDTTRC</from>
+    <to>CASHRUB</to>
+    <in>1</in>
+    <out>115</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>MSK</city>
+  </item>
+</rates>
