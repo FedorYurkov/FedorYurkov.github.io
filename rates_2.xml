@@ -27,8 +27,8 @@
     <city>MSK</city>
   </item>
     <item>
-    <from>USDTTRC</from>
-    <to>TINKBRUB</to>
+    <from>TINKBRUB</from>
+    <to>USDTTRC</to>
     <in>1</in>
     <out>94</out>
     <minamount>1</minamount>
