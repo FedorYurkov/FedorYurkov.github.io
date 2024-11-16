@@ -63,6 +63,15 @@
     <city>MSK</city>
   </item>
   <item>
+    <from>RNKBRUB</from>
+    <to>USDTTRC</to>
+    <in>94</in>
+    <out>1</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>MSK</city>
+  </item>
+  <item>
     <from>TBRUB</from>
     <to>USDTTRC</to>
     <in>97,75</in>
