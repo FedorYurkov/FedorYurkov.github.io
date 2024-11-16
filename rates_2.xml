@@ -67,7 +67,7 @@
     <to>USDTTRC</to>
     <in>97,75</in>
     <out>1</out>
-    <minamount>10000</minamount>
+    <minamount>1</minamount>
     <maxamount>1000000</maxamount>
     <city>MSK</city>
   </item>
