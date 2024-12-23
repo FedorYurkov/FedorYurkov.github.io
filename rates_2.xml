@@ -37,7 +37,7 @@
   </item>
   <item>
     <from>USDTTRC</from>
-    <to>ALFARUB</to>
+    <to>ACRUB</to>
     <in>1</in>
     <out>103.25</out>
     <minamount>1000</minamount>
