@@ -18,6 +18,42 @@
     <city>ADLER</city>
   </item>
   <item>
+    <from>USDTTRC</from>
+    <to>CASHUSD</to>
+    <in>1</in>
+    <out>1.011</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>ADLER</city>
+  </item>
+  <item>
+    <from>CASHUSD</from>
+    <to>USDTTRC</to>
+    <in>1.02</in>
+    <out>1</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>ADLER</city>
+  </item>
+  <item>
+    <from>USDTTRC</from>
+    <to>CASHEUR</to>
+    <in>1.043</in>
+    <out>1</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>ADLER</city>
+  </item>
+  <item>
+    <from>CASHEUR</from>
+    <to>USDTTRC</to>
+    <in>1</in>
+    <out>1.321</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>ADLER</city>
+  </item>
+  <item>
     <from>TINKBRUB</from>
     <to>USDTTRC</to>
     <in>94</in>
