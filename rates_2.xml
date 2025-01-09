@@ -33,7 +33,6 @@
     <out>95.5</out>
     <minamount>1</minamount>
     <maxamount>1000000</maxamount>
-    <city>MSK</city>
   </item>
   <item>
     <from>USDTTRC</from>
@@ -42,7 +41,6 @@
     <out>103.25</out>
     <minamount>1000</minamount>
     <maxamount>2000</maxamount>
-    <city>MSK</city>
   </item>
   <item>
     <from>USDTTRC</from>
@@ -51,7 +49,6 @@
     <out>100</out>
     <minamount>1</minamount>
     <maxamount>1000000</maxamount>
-    <city>SPB</city>
   </item>
   <item>
     <from>CASHRUB</from>
@@ -78,7 +75,6 @@
     <out>1</out>
     <minamount>1</minamount>
     <maxamount>1000000</maxamount>
-    <city>MSK</city>
   </item>
   <item>
     <from>RNKBRUB</from>
@@ -87,6 +83,5 @@
     <out>1</out>
     <minamount>1000</minamount>
     <maxamount>1000000</maxamount>
-    <city>MSK</city>
   </item>
 </rates>
