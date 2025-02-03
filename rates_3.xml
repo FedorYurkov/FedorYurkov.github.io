@@ -8,12 +8,4 @@
     <maxamount>1000000</maxamount>
     <city>MSK</city>
   </item>
-  <item>
-    <from>RNKBRUB</from>
-    <to>USDTTRC</to>
-    <in>98.25</in>
-    <out>1</out>
-    <minamount>1</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
 </rates>
