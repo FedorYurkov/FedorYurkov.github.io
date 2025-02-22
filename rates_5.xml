@@ -26,4 +26,13 @@
     <maxamount>1000000</maxamount>
     <city>MSK</city>
   </item>
+  <item>
+    <from>USDTTRC</from>
+    <to>SBERRUB</to>
+    <in>0.00862</in>
+    <out>116</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>MSK</city>
+  </item>
 </rates>
