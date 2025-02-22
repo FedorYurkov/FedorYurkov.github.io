@@ -21,7 +21,7 @@
     <from>USDTTRC</from>
     <to>CASHEUR</to>
     <in>1</in>
-    <out>1.16</out>
+    <out>0.86</out>
     <minamount>1</minamount>
     <maxamount>1000000</maxamount>
     <city>MSK</city>
