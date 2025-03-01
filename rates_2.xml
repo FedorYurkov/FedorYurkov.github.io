@@ -1,94 +1,17 @@
 <rates>
   <item>
-    <from>USDTTRC</from>
-    <to>CASHRUB</to>
-    <in>1</in>
-    <out>115.1</out>
-    <minamount>1</minamount>
-    <maxamount>1000000</maxamount>
-    <city>MSK</city>
-  </item>
-  <item>
-    <from>USDTTRC</from>
-    <to>CASHRUB</to>
-    <in>1</in>
-    <out>100</out>
-    <minamount>1</minamount>
-    <maxamount>1000000</maxamount>
-    <city>ADLER</city>
-  </item>
-  <item>
-    <from>USDTBEP</from>
-    <to>CASHRUB</to>
-    <in>1</in>
-    <out>110</out>
-    <minamount>1</minamount>
-    <maxamount>1000000</maxamount>
-    <city>MSK</city>
-  </item>
-  <item>
-    <from>USDTTRC</from>
-    <to>SBERRUB</to>
-    <in>1</in>
-    <out>95.5</out>
-    <minamount>1</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
-  <item>
-    <from>USDTTRC</from>
-    <to>ACRUB</to>
-    <in>1</in>
-    <out>103.25</out>
-    <minamount>1000</minamount>
-    <maxamount>2000</maxamount>
-  </item>
-  <item>
-    <from>USDTTRC</from>
-    <to>SBERRUB</to>
-    <in>1</in>
-    <out>100</out>
-    <minamount>1</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
-  <item>
-    <from>CASHRUB</from>
-    <to>USDTTRC</to>
-    <in>99.95</in>
-    <out>1</out>
-    <minamount>1</minamount>
-    <maxamount>1000000</maxamount>
-    <city>MSK</city>
-  </item>
-  <item>
-    <from>CASHRUB</from>
-    <to>USDTBEP</to>
-    <in>102</in>
-    <out>1</out>
-    <minamount>1</minamount>
-    <maxamount>1000000</maxamount>
-    <city>MSK</city>
-  </item>
-  <item>
-    <from>TINKBRUB</from>
-    <to>USDTTRC</to>
-    <in>94</in>
-    <out>1</out>
-    <minamount>1</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
-  <item>
-    <from>RNKBRUB</from>
-    <to>USDTTRC</to>
-    <in>97.75</in>
-    <out>1</out>
-    <minamount>1000</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
-  <item>
     <from>RNKBRUB</from>
     <to>USDTERC</to>
     <in>97.75</in>
     <out>1</out>
+    <minamount>1000</minamount>
+    <maxamount>1000000</maxamount>
+  </item>
+  <item>
+    <from>USDTERC</from>
+    <to>RNKBRUB</to>
+    <in>1</in>
+    <out>99.30</out>
     <minamount>1000</minamount>
     <maxamount>1000000</maxamount>
   </item>
