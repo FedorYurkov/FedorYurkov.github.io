@@ -31,4 +31,12 @@
     <minamount>1000</minamount>
     <maxamount>1000000</maxamount>
   </item>
+  <item>
+    <from>USDTBEP</from>
+    <to>OZONBRUB</to>
+    <in>1</in>
+    <out>83.6</out>
+    <minamount>1000</minamount>
+    <maxamount>1000000</maxamount>
+  </item>
 </rates>
