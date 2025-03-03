@@ -24,7 +24,7 @@
     <maxamount>88888</maxamount>
   </item>
   <item>
-    <from>OZONRUB</from>
+    <from>OZONBRUB</from>
     <to>USDTTRC</to>
     <in>96</in>
     <out>1</out>
