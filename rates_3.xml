@@ -1,41 +1,17 @@
 <rates>
   <item>
     <from>RNKBRUB</from>
+    <to>USDTTRC</to>
+    <in>98</in>
+    <out>1</out>
+    <minamount>1000</minamount>
+    <maxamount>1000000</maxamount>
+  </item>
+    <item>
+    <from>RNKBRUB</from>
     <to>USDTERC</to>
-    <in>98</in>
+    <in>90</in>
     <out>1</out>
-    <minamount>1000</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
-  <item>
-    <from>USDTERC</from>
-    <to>RNKBRUB</to>
-    <in>1</in>
-    <out>88.50</out>
-    <minamount>1000</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
-  <item>
-    <from>SBERRUB</from>
-    <to>USDTTRC</to>
-    <in>98</in>
-    <out>1</out>
-    <minamount>999</minamount>
-    <maxamount>88888</maxamount>
-  </item>
-  <item>
-    <from>OZONBRUB</from>
-    <to>USDTTRC</to>
-    <in>96</in>
-    <out>1</out>
-    <minamount>1000</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
-  <item>
-    <from>USDTBEP</from>
-    <to>OZONBRUB</to>
-    <in>1</in>
-    <out>83.6</out>
     <minamount>1000</minamount>
     <maxamount>1000000</maxamount>
   </item>
