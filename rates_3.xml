@@ -7,14 +7,6 @@
     <minamount>1000</minamount>
     <maxamount>1000000</maxamount>
   </item>
-    <item>
-    <from>RNKBRUB</from>
-    <to>USDTERC</to>
-    <in>90</in>
-    <out>1</out>
-    <minamount>1000</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
   <item>
     <from>SBERRUB</from>
     <to>USDTTRC</to>
@@ -23,5 +15,4 @@
     <minamount>999</minamount>
     <maxamount>88888</maxamount>
   </item>
-
 </rates>
