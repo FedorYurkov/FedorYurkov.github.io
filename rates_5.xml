@@ -9,6 +9,16 @@
     <city>MSK</city>
   </item>
   <item>
+    <from>CASHRUB</from>
+    <to>USDTTRC</to>
+    <in>1</in>
+    <out>0.00862</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>MSK</city>
+  </item>
+  
+  <item>
     <from>USDTTRC</from>
     <to>CASHUSD</to>
     <in>0.98039</in>
@@ -17,6 +27,16 @@
     <maxamount>1000000</maxamount>
     <city>MSK</city>
   </item>
+   <item>
+    <from>CASHUSD</from>
+    <to>USDTTRC</to>
+    <in>1</in>
+    <out>0.98039</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>MSK</city>
+  </item>
+  
  <item>
     <from>USDTTRC</from>
     <to>CASHEUR</to>
@@ -26,11 +46,29 @@
     <maxamount>1000000</maxamount>
     <city>MSK</city>
   </item>
+   <item>
+    <from>CASHEUR</from>
+    <to>USDTTRC</to>
+    <in>0.86</in>
+    <out>1</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+    <city>MSK</city>
+  </item>
+  
   <item>
     <from>USDTTRC</from>
     <to>SBERRUB</to>
     <in>0.00862</in>
     <out>116</out>
+    <minamount>1</minamount>
+    <maxamount>1000000</maxamount>
+  </item>
+    <item>
+    <from>SBERRUB</from>
+    <to>USDTTRC</to>
+    <in>116</in>
+    <out>0.00862</out>
     <minamount>1</minamount>
     <maxamount>1000000</maxamount>
   </item>
