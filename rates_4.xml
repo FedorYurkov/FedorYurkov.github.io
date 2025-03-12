@@ -12,7 +12,7 @@
     <to>RNKBRUB</to>
     <in>98.15</in>
     <out>1</out>
-
-  </item>
-  
+    <minamount>1000</minamount>
+    <maxamount>1000000</maxamount>
+  </item>  
 </rates>
