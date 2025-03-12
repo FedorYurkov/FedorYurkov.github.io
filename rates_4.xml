@@ -1,1 +1,18 @@
-blablabal
+<rates>
+  <item>
+    <from>RNKBRUB</from>
+    <to>USDTTRC</to>
+    <in>97.75</in>
+    <out>1</out>
+    <minamount>1000</minamount>
+    <maxamount>1000000</maxamount>
+
+<item>
+    <from>USDTTRC</from>
+    <to>RNKBRUB</to>
+    <in>98.15</in>
+    <out>1</out>
+    <minamount>1000</minamount>
+    <maxamount>1000000</maxamount>
+  </item>
+</rates>
