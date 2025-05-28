@@ -1,13 +1,5 @@
 <rates>
   <item>
-    <from>RNKBRUB</from>
-    <to>USDTERC20</to>
-    <in>95.75</in>
-    <out>1</out>
-    <minamount>1000</minamount>
-    <maxamount>1000000</maxamount>
-  </item>
-  <item>
     <from>USDTERC20</from>
     <to>RNKBRUB</to>
     <in>1</in>
